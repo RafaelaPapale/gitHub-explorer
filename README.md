@@ -14,7 +14,6 @@
 - [x] IDE para execução de códigos Javascript, HTML e CSS (ex: Visual Studio Code)
 - [x] React v17.0
 - [x] [NodeJs](https://nodejs.org/en/)
-
 ### :rocket: Começando
 <p>Para obter uma cópia do projeto a fim de operá-lo na sua máquina, clone o repositório em uma pasta na sua máquina:</p>
 
@@ -42,7 +41,6 @@ $ npm install
 ```
 $ npm start
 ```
-
 ### :hammer: Construído com...
 
 **IDE**: [Visual Studio Code](https://code.visualstudio.com/)
