@@ -130,9 +130,9 @@ function Main() {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    console.log('repo', repo);
+    
     const result = await ClientRepository.consultRepo(repo);
-    console.log(result);
+
     if (result.status === 200) {
       setRepo(result.data);
       setState(true);
