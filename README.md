@@ -12,7 +12,8 @@
 - [x] [NodeJs](https://nodejs.org/en/)
 
 ### :rocket: Começando
-Para obter uma cópia do projeto a fim de operá-lo/testá-lo de sua máquina,clone o repositório em uma pasta na sua máquina:
+<p>Para obter uma cópia do projeto a fim de operá-lo na sua máquina, clone o repositório em uma pasta na sua máquina:</p>
+
 ```
 $ git clone git@github.com:RafaelaPapale/gitHub-explorer.git
 ```
@@ -32,7 +33,7 @@ $ npm install
 ```
 
 **Execução:**
-<p>Depois de instalar as bibliotecas,  execute o comando a seguir para subir o backEnd>:</p>
+<p>Depois de instalar as bibliotecas, execute o comando a seguir para subir o backEnd>:</p>
 
 ```
 $ npm start
