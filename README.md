@@ -42,6 +42,6 @@ $ npm start
 
 **IDE**: [Visual Studio Code](https://code.visualstudio.com/)
 
-**Tecnolgias**: [ReactJS](https://pt-br.reactjs.org/), [NodeJs](https://nodejs.org/en/)
+**Tecnolgias**: [ReactJs](https://pt-br.reactjs.org/), [NodeJs](https://nodejs.org/en/)
 
 **Controle de versões**: [GitHub](https://github.com/)
