@@ -9,7 +9,7 @@
 ### :computer: Pré-requisitos para execução
 - [x] IDE para execução de códigos Javascript, HTML e CSS (ex: Visual Studio Code)
 - [x] React v17.0
-- [x] NodeJs: [Instale node.js](https://nodejs.org/en/)
+- [x] [NodeJs](https://nodejs.org/en/)
 
 ### :rocket: Começando
 Para obter uma cópia do projeto a fim de operá-lo/testá-lo de sua máquina,clone o repositório em uma pasta na sua máquina:
@@ -42,6 +42,6 @@ $ npm start
 
 **IDE**: [Visual Studio Code](https://code.visualstudio.com/)
 
-**Linguagens**: [ReactJS](https://pt-br.reactjs.org/), [Html, CSS e Javascript](https://nodejs.org/en/)
+**Tecnolgias**: [ReactJS](https://pt-br.reactjs.org/), [NodeJs](https://nodejs.org/en/)
 
 **Controle de versões**: [GitHub](https://github.com/)
