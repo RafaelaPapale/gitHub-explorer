@@ -6,6 +6,10 @@
   Ao buscar um repositorio através do autor e nome a aplicação exibe informações pertinentes como número de forks, issues, stars e descrição.
 </p>
 
+<p>
+  Projeto desenvolvido consumindo a API do GitHub (https://api.github.com)
+</p>
+
 ### :computer: Pré-requisitos para execução
 - [x] IDE para execução de códigos Javascript, HTML e CSS (ex: Visual Studio Code)
 - [x] React v17.0
