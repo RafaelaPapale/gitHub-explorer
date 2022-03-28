@@ -36,7 +36,7 @@ $ npm install
 ```
 
 **Execução:**
-<p>Depois de instalar as bibliotecas, execute o comando a seguir para subir o backEnd>:</p>
+<p>Depois de instalar as bibliotecas, execute o comando a seguir para subir o projeto:</p>
 
 ```
 $ npm start
