@@ -43,10 +43,14 @@ $ npm install
 $ npm start
 ```
 
-### 🛠️ Construído com
+### :hammer: Construído com...
 
 **IDE**: [Visual Studio Code](https://code.visualstudio.com/)
 
 **Tecnolgias**: [ReactJs](https://pt-br.reactjs.org/), [NodeJs](https://nodejs.org/en/)
 
 **Controle de versões**: [GitHub](https://github.com/)
+
+### :telescope: Versão disponível
+
+<p>Uma versão da aplicação está disponível em https://elaborate-cendol-e7cc4d.netlify.app/ </p>
